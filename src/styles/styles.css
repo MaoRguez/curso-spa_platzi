@@ -16,7 +16,7 @@ body {
 
 .Header a {
   text-decoration: none;
-  color: #15302C;
+  color: #142850;
 }
 
 .Main {
@@ -44,6 +44,8 @@ body {
   text-decoration: none;
   box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
   border-radius: 5px;
+  background-color: #142850;
+  color: white;
   margin: 0 0 20px 0;
   display: block;
   animation-duration: 2s;
@@ -73,6 +75,7 @@ body {
   text-decoration: none;
   box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
   border-radius: 5px;
+  background-color: #142850;
   margin: 0 0 20px 0;
   display: block;
   animation-duration: 2s;
@@ -90,12 +93,12 @@ body {
   font-weight: 300;
   padding: 5px 10px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .Characters-item a {
   text-decoration: none;
-  color: #026C86;
+  color: white;
 }
 
 @keyframes fade {
